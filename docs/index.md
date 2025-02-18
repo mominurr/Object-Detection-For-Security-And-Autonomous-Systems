@@ -42,5 +42,3 @@ For any inquiries or collaborations, reach out via:
 - **GitHub:** [github.com/mominurr](https://github.com/mominurr)
 - **LinkedIn:** [linkedin.com/in/mominur--rahman](https://www.linkedin.com/in/mominur--rahman/)
 - **Email:** mominurr518@gmail.com
-
-🚀 **Star this repo** ⭐ if you find it useful!
