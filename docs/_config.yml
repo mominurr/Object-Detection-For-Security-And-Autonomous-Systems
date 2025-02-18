@@ -1,0 +1,9 @@
+remote_theme: coogie/oscailte
+plugins:
+- jekyll-remote-theme
+
+title: Object Detection for Security and Autonomous Systems
+description: Fastai-based object detection model for 11 different types of image classification
+
+author:
+  name: Mominur Rahman
